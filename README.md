@@ -1,3 +1,3 @@
 # widgets_app
 
-A new Flutter project.
+Projecto de Riverpod, creado en la clase de Devtalles
